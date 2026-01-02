@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="ArqumSiddiqui307" width="400" src="https://th.bing.com/th/id/OIG.wWg7Fyeb8zU.l7MsH3yM?pid=ImgGn">
+<!-- <img align="right" alt="ArqumSiddiqui307" width="400" src="https://th.bing.com/th/id/OIG.wWg7Fyeb8zU.l7MsH3yM?pid=ImgGn"> -->
 - 🔭 I’m currently working on CRM, CMS & HRMS**
 
 - 🌱 I’m currently learning **Backend Development**
