@@ -29,6 +29,7 @@
 <a href="https://www.linkedin.com/in/arqum-siddiqui/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://github.com/ArqumSiddiqui307"><img src="https://camo.githubusercontent.com/4fcd516e2fde608afc9ddd1330de295d23981c27a9b9d695f8abe51f70a1efc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
  
 <!-- <a href="https://twitter.com/arqum_siddiqui" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
