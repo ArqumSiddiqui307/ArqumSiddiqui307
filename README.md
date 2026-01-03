@@ -96,6 +96,8 @@
 
 [![Arqum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArqumSiddiqui307&theme=github-compact)](https://github.com/ArqumSiddiqui307/github-readme-activity-graph)
 
+----
+
 <span align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArqumSiddiqui307&show_icons=true&locale=en&layout=compact" alt="ArqumSiddiqui307" /></p>
 
