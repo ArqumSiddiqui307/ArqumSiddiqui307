@@ -102,7 +102,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArqumSiddiqui307&show_icons=true&locale=en" alt="ArqumSiddiqui307" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArqumSiddiqui307" alt="ArqumSiddiqui307" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ArqumSiddiqui307" alt="GitHub Streak" /></a>
+<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ArqumSiddiqui307" alt="GitHub Streak" /></a> --!>
 </span>
 
 ----
